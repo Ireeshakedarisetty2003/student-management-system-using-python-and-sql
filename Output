@@ -1,0 +1,39 @@
+
+
+--- Student Management System ---
+
+1. Add Student  
+2. View Students  
+3. Update Student  
+4. Delete Student  
+5. Exit  
+
+Enter choice: 1  
+Enter name: Ramesh  
+Enter age: 20  
+Enter marks: 85  
+Student added successfully!
+
+Enter choice: 1  
+Enter name: Sita  
+Enter age: 19  
+Enter marks: 92  
+Student added successfully!
+
+Enter choice: 2  
+
+Student Records:  
+(1, 'Ramesh', 20, 85)  
+(2, 'Sita', 19, 92)  
+
+Enter choice: 3  
+Enter student ID to update: 1  
+Enter new marks: 90  
+Updated successfully!
+
+Enter choice: 4  
+Enter student ID to delete: 2  
+Deleted successfully!
+
+Enter choice: 5  
+Exiting...
